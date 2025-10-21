@@ -23,23 +23,5 @@
 ---
 
 ### 📊 GitHub Stats
-![Iwuoha David's GitHub stats](https://github-readme-stats.vercel.app/api?username=iwuohadavid&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iwuohadavid&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=iwuohadavid&theme=tokyonight&hide_border=true)
-
----
-
-### 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Iwuoha%20David-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/iwuoha-david-145a71297/)
-[![Portfolio](https://img.shields.io/badge/HireMind-Visit%20Project-black?style=for-the-badge&logo=vercel)](https://hiremind-tau.vercel.app/)
-
----
-
-### ⚡ Fun Fact
-> I enjoy blending smooth UI motion with reliable backend logic — making every project *feel alive*.
-
----
-
-### 💬 “Building experiences that connect design, logic, and impact.”
+![Iwuoha David's GitHub stat]()
