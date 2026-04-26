@@ -35,19 +35,13 @@
 <div align="center">
 
 ```text
-                 ☁️ Cloudinary / Render / Vercel
-                            ◯
-               Git ◯                     ◯ Postman
-
-      TailwindCSS ◯                         ◯ Supabase
-
-                    ◯      ⚛️ DAVID ⚛️      ◯
-
-          React ◯                             ◯ Node.js
-
-                HTML/CSS ◯               ◯ Express
-                            ◯
-                         VS Code
+Frontend        🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
+Backend         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  80%
+Database/Auth   🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜  70%
+Cloud/DevOps    🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜  70%
+Research        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜  80%
+Energy Tech     🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  60%
+UI/UX           🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
 ```
 
 </div>
