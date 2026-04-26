@@ -9,7 +9,7 @@
 ╚═╝ ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ 
 ```
 
-## 👋 Hi, I'm Iwuoha David
+##  Hi, I'm Iwuoha David
 
 🚀 Full-Stack Developer • Energy Innovator • Researcher • Problem Solver
 💡 I build smooth, scalable, modern digital experiences from idea to deployment.
