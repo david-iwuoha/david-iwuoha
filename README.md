@@ -105,7 +105,7 @@ UI/UX           🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
 * [x] Sharpening backend architecture skills
 * [x] Shipping polished UI experiences
 * [x] Exploring solutions for the energy industry
-* [ ] Exploring AI product integrations
+* [x] Exploring AI product integrations
 * [ ] Contributing more to open source
 
 ---
