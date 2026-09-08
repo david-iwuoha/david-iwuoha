@@ -78,6 +78,12 @@ Generates Community Energy Profiling Scores from ERT surveys, agricultural produ
 **Spectra, Autonomous Oil Spill Detection**
 Detects and attributes oil spills using Sentinel-1 SAR imagery, a U-Net segmentation model, ERA5 wind validation, optical cross-validation, and AIS vessel attribution.
 
+**SPE Africa Geothermal Datathon 2026, Reservoir Design Pipeline**
+An 8-notebook Python pipeline for the Utrecht Rotliegend reservoir challenge, covering well log analysis, reservoir characterization, system design, and LCOE analysis.
+
+**SPE DSEATS Africa Datathon 2026, Oil Presence Classification**
+A multi-model ML pipeline (LightGBM, XGBoost, CatBoost, stacking ensemble) with physics-informed corrections for oil presence classification, achieving a +6.9% F1 improvement in the domain-corrected submission.
+
 **Castify, AI Compliance Training Platform**
 Converts policy documents into avatar-led training video episodes, built on Claude, YarnGPT, and D-ID. Placed 7th of 115 at the Claude Builder Hackathon (Claude Code Club UNILAG).
 
@@ -89,12 +95,6 @@ React Native/Expo app with RAMM (Respiratory Acoustic Monitoring Module), a DSP-
 
 **HireMind**
 A platform for uploading, stamping, and verifying credentials through a modern, secure web workflow with a scalable deployment pipeline.
-
-**SPE Africa Geothermal Datathon 2026, Reservoir Design Pipeline**
-An 8-notebook Python pipeline for the Utrecht Rotliegend reservoir challenge, covering well log analysis, reservoir characterization, system design, and LCOE analysis.
-
-**SPE DSEATS Africa Datathon 2026, Oil Presence Classification**
-A multi-model ML pipeline (LightGBM, XGBoost, CatBoost, stacking ensemble) with physics-informed corrections for oil presence classification, achieving a +6.9% F1 improvement in the domain-corrected submission.
 
 ---
 
