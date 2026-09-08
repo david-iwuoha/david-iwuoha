@@ -43,6 +43,19 @@ Full-Stack Developer building AI-driven tools for the energy sector, backed by a
 
 ---
 
+## <img src="https://api.iconify.design/mdi:certificate-outline.svg?color=%230EA5E9" width="22" align="center"/> Skills
+
+**Technical**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0EA5E9?style=flat-square) ![Data Analysis](https://img.shields.io/badge/Data%20Analysis-0EA5E9?style=flat-square) ![Ensemble Modeling](https://img.shields.io/badge/Ensemble%20Modeling-0EA5E9?style=flat-square) ![REST APIs](https://img.shields.io/badge/REST%20APIs-0EA5E9?style=flat-square) ![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-0EA5E9?style=flat-square)
+
+**Energy & Geoscience**
+![Geophysics](https://img.shields.io/badge/Geophysics-16A34A?style=flat-square) ![Reservoir Engineering](https://img.shields.io/badge/Reservoir%20Engineering-16A34A?style=flat-square) ![Well Log Analysis](https://img.shields.io/badge/Well%20Log%20Analysis-16A34A?style=flat-square) ![Remote Sensing](https://img.shields.io/badge/Remote%20Sensing-16A34A?style=flat-square) ![Mini--Grid%20Site%20Selection](https://img.shields.io/badge/Mini--Grid%20Site%20Selection-16A34A?style=flat-square) ![Physics--Informed%20ML](https://img.shields.io/badge/Physics--Informed%20ML-16A34A?style=flat-square)
+
+**Product & Delivery**
+![Technical Writing](https://img.shields.io/badge/Technical%20Writing-F59E0B?style=flat-square) ![Pitching](https://img.shields.io/badge/Pitching-F59E0B?style=flat-square) ![Financial Modeling](https://img.shields.io/badge/Financial%20Modeling-F59E0B?style=flat-square) ![Project Management](https://img.shields.io/badge/Project%20Management-F59E0B?style=flat-square)
+
+---
+
 ## <img src="https://api.iconify.design/mdi:web.svg?color=%230EA5E9" width="22" align="center"/> Portfolio
 
 Explore my projects and development journey: [david-iwuoha.vercel.app](https://david-iwuoha.vercel.app/)
@@ -54,8 +67,6 @@ Explore my projects and development journey: [david-iwuoha.vercel.app](https://d
 - Writing "Improving Geological Lineament Detection from Aeromagnetic Data Using Machine Learning: A Case Study in Nigeria", first paper for publication (Random Forest + SVM on NGSA aeromagnetic data, Ibadan sheet)
 - Submitted a manuscript to SPE STC 26 on a hybrid physics-informed ML framework for oilfield asset optimization under energy-constrained conditions in Sub-Saharan Africa
 - Co-authored a NAPE conference abstract on hybrid decline curve and ML production forecasting using the Equinor Volve dataset
-- Competed in the SPE DSEATS Africa Datathon 2026, building a multi-model ML pipeline (LightGBM, XGBoost, CatBoost, stacking ensemble) with physics-informed corrections, achieving a +6.9% F1 improvement in the domain-corrected submission
-- Competed in the SPE Africa Geothermal Datathon 2026 (Utrecht Rotliegend reservoir design challenge), building an 8-notebook pipeline covering well log analysis, reservoir characterization, and LCOE analysis
 
 ---
 
@@ -78,6 +89,12 @@ React Native/Expo app with RAMM (Respiratory Acoustic Monitoring Module), a DSP-
 
 **HireMind**
 A platform for uploading, stamping, and verifying credentials through a modern, secure web workflow with a scalable deployment pipeline.
+
+**SPE Africa Geothermal Datathon 2026, Reservoir Design Pipeline**
+An 8-notebook Python pipeline for the Utrecht Rotliegend reservoir challenge, covering well log analysis, reservoir characterization, system design, and LCOE analysis.
+
+**SPE DSEATS Africa Datathon 2026, Oil Presence Classification**
+A multi-model ML pipeline (LightGBM, XGBoost, CatBoost, stacking ensemble) with physics-informed corrections for oil presence classification, achieving a +6.9% F1 improvement in the domain-corrected submission.
 
 ---
 
