@@ -9,13 +9,12 @@
 ╚═╝ ╚══╝╚══╝  ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝    ╚═════╝ ╚═╝  ╚═╝  ╚═══╝  ╚═╝╚═════╝ 
 ```
 
-##  Hi, I'm Iwuoha David
+### Hi, I'm Iwuoha David
 
-🚀 Full-Stack Developer • Energy Innovator • Researcher • Problem Solver
-💡 I build smooth, scalable, modern digital experiences from idea to deployment.
+Full-Stack Developer building AI-driven tools for the energy sector, backed by a geophysics foundation.
 
-![Profile Views](https://img.shields.io/badge/Profile-Developer-0EA5E9?style=for-the-badge)
-![Focus](https://img.shields.io/badge/Focus-FullStack-16A34A?style=for-the-badge)
+![Focus](https://img.shields.io/badge/Focus-Energy%20x%20Software-0EA5E9?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-FullStack%20%2B%20ML-16A34A?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Building-F59E0B?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Base-Nigeria-111827?style=for-the-badge)
 
@@ -23,99 +22,92 @@
 
 ---
 
-## 🧠 About Me
+## <img src="https://api.iconify.design/mdi:brain.svg?color=%230EA5E9" width="22" align="center"/> About Me
 
-> I enjoy turning raw ideas into polished products that feel fast, intuitive, and reliable.
-> My focus is clean architecture, strong UI/UX, systems that scale, and technology that creates real-world impact across healthcare and energy sectors.
+> I turn ideas into working products, fast, reliable, and built to scale.
+> Geophysics undergraduate at the University of Lagos with a full-stack development track record. My work sits at the intersection of energy systems, applied AI, and clean architecture, from mini-grid site selection to disease surveillance tools built for real deployment, not just demos.
 
 ---
 
-## 🛠️ Tech Stack Orbit
+## <img src="https://api.iconify.design/mdi:toolbox-outline.svg?color=%230EA5E9" width="22" align="center"/> Tech Stack
+
+| Layer              | Tools |
+|--------------------|-------|
+| Frontend           | ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Tailwind](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) |
+| Backend            | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) |
+| Data / ML          | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white) |
+| Database / Auth    | ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white) |
+| Cloud & Deploy     | ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white) |
+| Workflow           | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white) |
+| Domain Focus       | Rural electrification, mini-grid analytics, oilfield ML, geospatial/remote sensing |
+
+---
+
+## <img src="https://api.iconify.design/mdi:web.svg?color=%230EA5E9" width="22" align="center"/> Portfolio
+
+Explore my projects and development journey: [david-iwuoha.vercel.app](https://david-iwuoha.vercel.app/)
+
+---
+
+## <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%230EA5E9" width="22" align="center"/> Research & Academic Work
+
+- Writing "Improving Geological Lineament Detection from Aeromagnetic Data Using Machine Learning: A Case Study in Nigeria", first paper for publication (Random Forest + SVM on NGSA aeromagnetic data, Ibadan sheet)
+- Submitted a manuscript to SPE STC 26 on a hybrid physics-informed ML framework for oilfield asset optimization under energy-constrained conditions in Sub-Saharan Africa
+- Co-authored a NAPE conference abstract on hybrid decline curve and ML production forecasting using the Equinor Volve dataset
+- Competed in the SPE DSEATS Africa Datathon 2026, building a multi-model ML pipeline (LightGBM, XGBoost, CatBoost, stacking ensemble) with physics-informed corrections, achieving a +6.9% F1 improvement in the domain-corrected submission
+- Competed in the SPE Africa Geothermal Datathon 2026 (Utrecht Rotliegend reservoir design challenge), building an 8-notebook pipeline covering well log analysis, reservoir characterization, and LCOE analysis
+
+---
+
+## <img src="https://api.iconify.design/mdi:rocket-launch-outline.svg?color=%230EA5E9" width="22" align="center"/> Featured Projects
+
+**STRATOS, Rural Energy Intelligence Platform**
+Generates Community Energy Profiling Scores from ERT surveys, agricultural productivity mapping, and market data to guide mini-grid site selection. Piloted across 25 communities in Niger State. Finalist (top 5 of 166) at TID 5.0, and Silver Award winner in the TID 5.0 Social Media Contest.
+
+**Spectra, Autonomous Oil Spill Detection**
+Detects and attributes oil spills using Sentinel-1 SAR imagery, a U-Net segmentation model, ERA5 wind validation, optical cross-validation, and AIS vessel attribution.
+
+**Castify, AI Compliance Training Platform**
+Converts policy documents into avatar-led training video episodes, built on Claude, YarnGPT, and D-ID. Placed 7th of 115 at the Claude Builder Hackathon (Claude Code Club UNILAG).
+
+**Nuvia, Voice-First Disease Surveillance**
+Lets community health workers in Nigeria record spoken patient notes in local languages, auto-filling IDSR outbreak alert forms. Finalist at BioDrive 3.0.
+
+**CareCell, Sickle Cell Disease Monitoring**
+React Native/Expo app with RAMM (Respiratory Acoustic Monitoring Module), a DSP-based algorithm that detects abnormal breathing during sleep and alerts caregivers. Reached 73% detection accuracy in pilot testing.
+
+**HireMind**
+A platform for uploading, stamping, and verifying credentials through a modern, secure web workflow with a scalable deployment pipeline.
+
+---
+
+## <img src="https://api.iconify.design/mdi:chart-bar.svg?color=%230EA5E9" width="22" align="center"/> GitHub Stats
 
 <div align="center">
 
-```text
-Frontend        🟦🟦🟦🟦🟦🟦🟦🟦🟦⬜  90%
-Backend         🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜  80%
-Database/Auth   🟨🟨🟨🟨🟨🟨🟨⬜⬜⬜  70%
-Cloud/DevOps    🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜  70%
-Research        🟥🟥🟥🟥🟥🟥🟥🟥⬜⬜  80%
-Energy Tech     🟧🟧🟧🟧🟧🟧⬜⬜⬜⬜  60%
-UI/UX           🟦🟦🟦🟦🟦🟦🟦🟦⬜⬜  80%
-```
-
-</div>
-
-| Layer             | Tools                                                      |
-| ----------------- | ---------------------------------------------------------- |
-| 🎨 Frontend       | React, HTML, CSS, TailwindCSS                              |
-| ⚡ Industry Focus  | Energy systems, digital infrastructure, applied innovation |
-| ⚙️ Backend        | Node.js, Express                                           |
-| 🗄️ Database/Auth | Supabase                                                   |
-| ☁️ Cloud & Deploy | Render, Vercel, Cloudinary                                 |
-| 🧰 Workflow       | Git, Postman, VS Code                                      |
-
----
-
-## 🌐 Portfolio
-
-### 🔗 Personal Portfolio
-
-> Explore my projects, work, and development journey.
-
-[https://david-iwuoha.vercel.app/](https://david-iwuoha.vercel.app/)
-
----
-
-## 🔬 Research & Academic Work
-
-> I am actively involved in research, analytical problem-solving, and academic writing focused on practical innovation, technical systems, and future-ready industries.
-
----
-
-## 🌟 Featured Project
-
-### 🔗 HireMind
-
-> A smart and intuitive platform that helps users upload, stamp, and verify credentials seamlessly through a modern web experience.
-
-**Highlights**
-
-* Clean responsive UI
-* Secure credential workflows
-* Scalable deployment pipeline
-* Smooth user experience
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-iwuoha\&show_icons=true\&theme=tokyonight\&hide_border=true\&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-iwuoha\&layout=compact\&theme=tokyonight\&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=david-iwuoha&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=david-iwuoha&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
 ---
 
-## 🚀 Current Focus
+## <img src="https://api.iconify.design/mdi:target.svg?color=%230EA5E9" width="22" align="center"/> Current Focus
 
-* [x] Building full-stack production apps
-* [x] Sharpening backend architecture skills
-* [x] Shipping polished UI experiences
-* [x] Exploring solutions for the energy industry
-* [x] Exploring AI product integrations
-* [ ] Contributing more to open source
+- [x] Building full-stack production apps for the energy sector
+- [x] Sharpening ML pipelines for geoscience and reservoir data
+- [x] Shipping polished, deployment-ready UI
+- [x] Publishing first research paper on ML-assisted lineament detection
+- [ ] Contributing more to open source
 
 ---
 
-## ⚡ Long-Term Vision
+## <img src="https://api.iconify.design/mdi:telescope.svg?color=%230EA5E9" width="22" align="center"/> Long-Term Vision
 
 > Building technology-driven solutions for the energy industry through software, research, and scalable infrastructure.
 
 ---
 
-## 🤝 Connect
+## <img src="https://api.iconify.design/mdi:account-group-outline.svg?color=%230EA5E9" width="22" align="center"/> Connect
 
-> Open to collaborations, freelance work, and meaningful products that solve real problems.
+Open to collaborations, freelance work, and products that solve real problems. Add your GitHub-linked social badges here (LinkedIn, X, email) as needed.
