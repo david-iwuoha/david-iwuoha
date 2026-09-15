@@ -61,7 +61,7 @@ Full-Stack Developer building AI-driven tools for the energy sector, backed by a
 Explore my projects and development journey: [david-iwuoha.vercel.app](https://david-iwuoha.vercel.app/)
 
 ---
-
+ 
 ## <img src="https://api.iconify.design/mdi:flask-outline.svg?color=%230EA5E9" width="22" align="center"/> Research & Academic Work
 
 - Writing "Improving Geological Lineament Detection from Aeromagnetic Data Using Machine Learning: A Case Study in Nigeria", first paper for publication (Random Forest + SVM on NGSA aeromagnetic data, Ibadan sheet)
