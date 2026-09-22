@@ -14,7 +14,7 @@
 Full-Stack Developer building AI-driven tools for the energy sector, backed by a geophysics foundation.
 
 ![Focus](https://img.shields.io/badge/Focus-Energy%20x%20Software-0EA5E9?style=for-the-badge)
-![Stack](https://img.shields.io/badge/Stack-FullStack%20%2B%20ML-16A34A?style=for-the-badge)
+![Stack](https://img.shields.io/badge/Stack-FullStack%20%2B%20ML-16A34A?style=for-the-badge) 
 ![Status](https://img.shields.io/badge/Status-Building-F59E0B?style=for-the-badge)
 ![Location](https://img.shields.io/badge/Base-Nigeria-111827?style=for-the-badge)
 
